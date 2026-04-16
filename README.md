@@ -10,3 +10,14 @@
 
 ## Regional CorrDiff prediction vs. other observational products 
 ![Compare](https://github.com/xlaurahu/LowerOhioRiver/blob/main/totalsumprecp.png)
+
+
+---
+
+## References: 
+
+[MRMS](https://noaa-mrms-pds.s3.amazonaws.com/index.html#CONUS/RadarOnly_QPE_03H_00.00/20250404/)
+
+[CoCoRaHs](https://www.weather.gov/lmk/HistoricRainfallFloodingApril2-62025)
+
+[CMorph](https://icharm.sdsu.edu/)
