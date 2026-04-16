@@ -4,4 +4,4 @@
 
 ![CorrDiff](https://github.com/xlaurahu/LowerOhioRiver/blob/main/corrdiff_summed_precip.png)
 
-![Compare](https://github.com/xlaurahu/LowerOhioRiver/blob/main/totalsumprecp%20(1).png)
+![Compare](https://github.com/xlaurahu/LowerOhioRiver/blob/main/totalsumprecp.png)
