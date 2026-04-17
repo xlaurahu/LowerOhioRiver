@@ -1,14 +1,17 @@
 # Lower Ohio River Valley Flood 4/3/2025 
 
-## MRMS radar daily precipitation 
+## MRMS Radar Daily Precipitation 
 ![MRMS](https://github.com/xlaurahu/LowerOhioRiver/blob/main/Mrms_summed_precip.png)
 
-## CorrDiff daily precipitation 
+## CorrDiff Daily Precipitation 
 ![CorrDiff](https://github.com/xlaurahu/LowerOhioRiver/blob/main/Corrdiff_summed_precip.png)
 
-## Hourly precipitation rate can be found [HERE](https://github.com/xlaurahu/LowerOhioRiver/tree/main/OhioPrecp4325)
+## CorrDiff Initial Condition
+![Initial](https://github.com/xlaurahu/LowerOhioRiver/blob/main/Corrdiff_InitialCondition.png)
 
-## Regional CorrDiff prediction vs. other observational products 
+## Hourly Precipitation: [mm/day](https://github.com/xlaurahu/LowerOhioRiver/tree/main/HourlyPrecp_mm%3Aday), [mm/hr](https://github.com/xlaurahu/LowerOhioRiver/tree/main/HourlyPrecp_mm%3Ahr)
+
+## Regional CorrDiff Prediction vs. Other Observational Products 
 ![Compare](https://github.com/xlaurahu/LowerOhioRiver/blob/main/totalsumprecp.png)
 
 
