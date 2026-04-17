@@ -9,7 +9,7 @@
 ## Hourly precipitation rate can be found [HERE](https://github.com/xlaurahu/LowerOhioRiver/tree/main/OhioPrecp4325)
 
 ## Regional CorrDiff prediction vs. other observational products 
-![Compare](https://github.com/xlaurahu/LowerOhioRiver/blob/main/comparbar.png)
+![Compare](https://github.com/xlaurahu/LowerOhioRiver/blob/main/totalsumprecp.png)
 
 
 ---
